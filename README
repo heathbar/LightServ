@@ -1,0 +1,7 @@
+LightServ is a java app designed to run as a daemon on my Ubuntu server. 
+
+Attached to the server is a Parallax Propeller microcontroller that runs a number of LEDs installed in the bookshelf in my office. 
+
+This daemon talks to the Propeller over a virtual com port. 
+
+
